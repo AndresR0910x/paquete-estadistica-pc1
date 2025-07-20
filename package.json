@@ -1,5 +1,5 @@
 {
-  "name": "@icebeam7/paquete-estadistica-pc1",
+  "name": "@AndresR0910x/paquete-estadistica-pc1",
   "version": "1.0.0",
   "description": "Funciones estadisticas y generacion de graficas con Node.js",
   "main": "index.js",
