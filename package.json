@@ -1,0 +1,29 @@
+{
+  "name": "paquete-estadistica-pc1",
+  "version": "1.0.0",
+  "description": "Funciones estadisticas y generacion de graficas con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndresR0910x/paquete-estadistica-pc1.git"
+  },
+  "keywords": [],
+  "author": "Andres Rodriguez",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AndresR0910x/paquete-estadistica-pc1/issues"
+  },
+  "homepage": "https://github.com/AndresR0910x/paquete-estadistica-pc1#readme",
+  "dependencies": {
+    "canvas": "^3.1.2",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
